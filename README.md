@@ -1,24 +1,7 @@
 # my-web
 
-## Project setup
-```
-npm install
-```
+![Alt text](images/IMG_6094.jpeg)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Alt text](images/IMG_6094.jpeg)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Alt text](images/IMG_6094.jpeg)
