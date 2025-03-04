@@ -1,7 +1,7 @@
 # my-web
 
-![Alt text](images/IMG_6094.jpeg)
+![web01](src/assets/web01.png)
 
-![Alt text](images/IMG_6094.jpeg)
+![web02](src/assets/web02.png)
 
-![Alt text](images/IMG_6094.jpeg)
+![web03](src/assets/web03.png)
